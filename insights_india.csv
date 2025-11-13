@@ -1,0 +1,16 @@
+insight_id,insight_type,title,description,payload_json,severity,created_at,resolved
+I000001,hotspot,High CO2 on route R000552,Route R000552 emitted 91.81 kg CO2 in sample,"{""route_id"": ""R000552"", ""total_co2"": 91.809}",medium,2025-11-13T11:09:24.753657,False
+I000002,hotspot,High CO2 on route R000150,Route R000150 emitted 81.08 kg CO2 in sample,"{""route_id"": ""R000150"", ""total_co2"": 81.081}",medium,2025-11-13T11:09:24.753749,False
+I000003,hotspot,High CO2 on route R000501,Route R000501 emitted 73.36 kg CO2 in sample,"{""route_id"": ""R000501"", ""total_co2"": 73.35900000000001}",medium,2025-11-13T11:09:24.753833,False
+I000004,hotspot,High CO2 on route R000983,Route R000983 emitted 71.37 kg CO2 in sample,"{""route_id"": ""R000983"", ""total_co2"": 71.371}",medium,2025-11-13T11:09:24.753910,False
+I000005,hotspot,High CO2 on route R000692,Route R000692 emitted 61.80 kg CO2 in sample,"{""route_id"": ""R000692"", ""total_co2"": 61.802}",medium,2025-11-13T11:09:24.753974,False
+I000006,anomaly,Anomalous trip T000042,Trip fuel_used 4.227 seems unusual,"{""trip_id"": ""T000042"", ""fuel_used_l"": 4.227}",high,2025-11-13T11:09:24.755113,False
+I000007,anomaly,Anomalous trip T000091,Trip fuel_used 8.252 seems unusual,"{""trip_id"": ""T000091"", ""fuel_used_l"": 8.252}",high,2025-11-13T11:09:24.755222,False
+I000008,anomaly,Anomalous trip T000114,Trip fuel_used 2.904 seems unusual,"{""trip_id"": ""T000114"", ""fuel_used_l"": 2.904}",high,2025-11-13T11:09:24.755313,False
+I000009,anomaly,Anomalous trip T000143,Trip fuel_used 2.816 seems unusual,"{""trip_id"": ""T000143"", ""fuel_used_l"": 2.816}",high,2025-11-13T11:09:24.755405,False
+I000010,anomaly,Anomalous trip T000217,Trip fuel_used 3.689 seems unusual,"{""trip_id"": ""T000217"", ""fuel_used_l"": 3.689}",high,2025-11-13T11:09:24.755488,False
+I000011,anomaly,Anomalous trip T000256,Trip fuel_used 11.377 seems unusual,"{""trip_id"": ""T000256"", ""fuel_used_l"": 11.377}",high,2025-11-13T11:09:24.755550,False
+I000012,anomaly,Anomalous trip T000270,Trip fuel_used 2.63 seems unusual,"{""trip_id"": ""T000270"", ""fuel_used_l"": 2.63}",high,2025-11-13T11:09:24.755627,False
+I000013,anomaly,Anomalous trip T000293,Trip fuel_used 12.987 seems unusual,"{""trip_id"": ""T000293"", ""fuel_used_l"": 12.987}",high,2025-11-13T11:09:24.755690,False
+I000014,anomaly,Anomalous trip T000321,Trip fuel_used 5.128 seems unusual,"{""trip_id"": ""T000321"", ""fuel_used_l"": 5.128}",high,2025-11-13T11:09:24.755764,False
+I000015,anomaly,Anomalous trip T000329,Trip fuel_used 9.089 seems unusual,"{""trip_id"": ""T000329"", ""fuel_used_l"": 9.089}",high,2025-11-13T11:09:24.755825,False

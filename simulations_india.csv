@@ -1,0 +1,7 @@
+simulation_id,name,request_json,result_json,run_by,run_at
+S000001,swap_test_1,"{""swap"": true, ""pairs"": 5}","{""co2_delta_kg"": 113.75}",,2025-11-13T11:09:24.788539
+S000002,swap_test_2,"{""swap"": true, ""pairs"": 5}","{""co2_delta_kg"": 69.58}",,2025-11-13T11:09:24.788564
+S000003,swap_test_3,"{""swap"": true, ""pairs"": 5}","{""co2_delta_kg"": 162.11}",,2025-11-13T11:09:24.788577
+S000004,swap_test_4,"{""swap"": true, ""pairs"": 5}","{""co2_delta_kg"": 45.82}",,2025-11-13T11:09:24.788587
+S000005,swap_test_5,"{""swap"": true, ""pairs"": 5}","{""co2_delta_kg"": 136.53}",,2025-11-13T11:09:24.788598
+S000006,swap_test_6,"{""swap"": true, ""pairs"": 5}","{""co2_delta_kg"": 137.31}",,2025-11-13T11:09:24.788608

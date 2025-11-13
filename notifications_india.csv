@@ -1,0 +1,438 @@
+notification_id,recipient_type,recipient_id,channel,subject,message,status,external_id,attempts,sent_at,created_at
+N000001,driver,d0083,push,Reminder,Your route has been assigned. Check app.,queued,,1,2025-11-13T10:20:24.758526,2025-11-13T11:09:24.758538
+N000002,driver,d0024,email,Route Assignment,Your route has been assigned. Check app.,queued,,2,2025-11-13T09:59:24.758865,2025-11-13T11:09:24.758875
+N000003,driver,d0156,push,Route Assignment,Your route has been assigned. Check app.,queued,,1,2025-11-13T10:18:24.759140,2025-11-13T11:09:24.759149
+N000004,driver,d0001,sms,Route Assignment,Your route has been assigned. Check app.,sent,,0,2025-11-13T09:44:24.759472,2025-11-13T11:09:24.759484
+N000005,driver,d0107,sms,Reminder,Your route has been assigned. Check app.,delivered,,0,2025-11-13T09:11:24.759742,2025-11-13T11:09:24.759749
+N000006,driver,d0090,email,Reminder,Your route has been assigned. Check app.,delivered,,0,2025-11-13T09:43:24.759991,2025-11-13T11:09:24.759999
+N000007,driver,d0169,push,Route Assignment,Your route has been assigned. Check app.,delivered,,2,2025-11-13T11:03:24.760267,2025-11-13T11:09:24.760275
+N000008,driver,d0110,push,Route Assignment,Your route has been assigned. Check app.,delivered,,0,2025-11-13T09:57:24.760669,2025-11-13T11:09:24.760678
+N000009,driver,d0177,push,Route Assignment,Your route has been assigned. Check app.,queued,,0,2025-11-13T10:32:24.760932,2025-11-13T11:09:24.760942
+N000010,driver,d0039,sms,Route Assignment,Your route has been assigned. Check app.,sent,,0,2025-11-13T10:46:24.761218,2025-11-13T11:09:24.761226
+N000011,driver,d0080,email,Reminder,Your route has been assigned. Check app.,sent,,0,2025-11-13T09:09:24.761492,2025-11-13T11:09:24.761502
+N000012,driver,d0100,sms,Reminder,Your route has been assigned. Check app.,queued,,2,2025-11-13T09:28:24.761745,2025-11-13T11:09:24.761752
+N000013,driver,d0138,sms,Route Assignment,Your route has been assigned. Check app.,sent,,0,2025-11-13T10:17:24.761984,2025-11-13T11:09:24.761994
+N000014,driver,d0058,sms,Route Assignment,Your route has been assigned. Check app.,delivered,,1,2025-11-13T09:16:24.762249,2025-11-13T11:09:24.762259
+N000015,driver,d0193,email,Reminder,Your route has been assigned. Check app.,sent,,0,2025-11-13T09:47:24.762508,2025-11-13T11:09:24.762515
+N000016,driver,d0108,email,Route Assignment,Your route has been assigned. Check app.,queued,,2,2025-11-13T10:18:24.762755,2025-11-13T11:09:24.762762
+N000017,driver,d0096,sms,Route Assignment,Your route has been assigned. Check app.,delivered,,0,2025-11-13T10:00:24.762969,2025-11-13T11:09:24.762976
+N000018,driver,d0176,push,Route Assignment,Your route has been assigned. Check app.,queued,,1,2025-11-13T11:06:24.763202,2025-11-13T11:09:24.763209
+N000019,driver,d0195,sms,Route Assignment,Your route has been assigned. Check app.,delivered,,2,2025-11-13T10:02:24.763463,2025-11-13T11:09:24.763473
+N000020,driver,d0011,email,Reminder,Your route has been assigned. Check app.,delivered,,1,2025-11-13T10:37:24.763732,2025-11-13T11:09:24.763739
+N000021,driver,d0130,push,Reminder,Your route has been assigned. Check app.,sent,,0,2025-11-13T11:04:24.763958,2025-11-13T11:09:24.763965
+N000022,driver,d0132,email,Route Assignment,Your route has been assigned. Check app.,sent,,2,2025-11-13T09:51:24.764185,2025-11-13T11:09:24.764193
+N000023,driver,d0088,sms,Reminder,Your route has been assigned. Check app.,queued,,0,2025-11-13T09:54:24.764513,2025-11-13T11:09:24.764524
+N000024,driver,d0035,sms,Route Assignment,Your route has been assigned. Check app.,delivered,,0,2025-11-13T09:41:24.764809,2025-11-13T11:09:24.764816
+N000025,driver,d0104,sms,Route Assignment,Your route has been assigned. Check app.,sent,,0,2025-11-13T10:36:24.765040,2025-11-13T11:09:24.765047
+N000026,driver,d0144,email,Route Assignment,Your route has been assigned. Check app.,sent,,0,2025-11-13T09:12:24.765267,2025-11-13T11:09:24.765286
+N000027,driver,d0184,sms,Route Assignment,Your route has been assigned. Check app.,queued,,0,2025-11-13T09:42:24.765541,2025-11-13T11:09:24.765548
+N000028,driver,d0148,sms,Route Assignment,Your route has been assigned. Check app.,sent,,2,2025-11-13T10:48:24.765850,2025-11-13T11:09:24.765862
+N000029,driver,d0148,sms,Reminder,Your route has been assigned. Check app.,queued,,2,2025-11-13T09:44:24.766109,2025-11-13T11:09:24.766115
+N000030,driver,d0024,push,Route Assignment,Your route has been assigned. Check app.,delivered,,0,2025-11-13T10:37:24.766352,2025-11-13T11:09:24.766362
+N000031,driver,d0003,email,Route Assignment,Your route has been assigned. Check app.,sent,,2,2025-11-13T10:59:24.766632,2025-11-13T11:09:24.766639
+N000032,driver,d0028,push,Route Assignment,Your route has been assigned. Check app.,sent,,2,2025-11-13T09:59:24.766950,2025-11-13T11:09:24.766959
+N000033,driver,d0136,sms,Route Assignment,Your route has been assigned. Check app.,queued,,1,2025-11-13T09:36:24.767188,2025-11-13T11:09:24.767194
+N000034,driver,d0179,email,Reminder,Your route has been assigned. Check app.,queued,,1,2025-11-13T09:14:24.767399,2025-11-13T11:09:24.767408
+N000035,driver,d0139,sms,Route Assignment,Your route has been assigned. Check app.,delivered,,2,2025-11-13T09:41:24.767680,2025-11-13T11:09:24.767687
+N000036,driver,d0023,push,Route Assignment,Your route has been assigned. Check app.,queued,,1,2025-11-13T10:15:24.767952,2025-11-13T11:09:24.767963
+N000037,driver,d0035,sms,Reminder,Your route has been assigned. Check app.,queued,,0,2025-11-13T10:10:24.768198,2025-11-13T11:09:24.768205
+N000038,driver,d0019,email,Route Assignment,Your route has been assigned. Check app.,queued,,0,2025-11-13T09:10:24.768443,2025-11-13T11:09:24.768450
+N000039,driver,d0034,sms,Route Assignment,Your route has been assigned. Check app.,sent,,1,2025-11-13T09:24:24.768702,2025-11-13T11:09:24.768710
+N000040,driver,d0048,email,Route Assignment,Your route has been assigned. Check app.,queued,,1,2025-11-13T11:04:24.768971,2025-11-13T11:09:24.768982
+N000041,driver,d0007,sms,Reminder,Your route has been assigned. Check app.,queued,,1,2025-11-13T09:54:24.769231,2025-11-13T11:09:24.769238
+N000042,driver,d0159,push,Route Assignment,Your route has been assigned. Check app.,queued,,1,2025-11-13T10:40:24.769443,2025-11-13T11:09:24.769449
+N000043,driver,d0148,sms,Reminder,Your route has been assigned. Check app.,sent,,2,2025-11-13T09:55:24.769711,2025-11-13T11:09:24.769720
+N000044,driver,d0060,sms,Reminder,Your route has been assigned. Check app.,queued,,2,2025-11-13T11:03:24.769974,2025-11-13T11:09:24.769981
+N000045,driver,d0125,sms,Reminder,Your route has been assigned. Check app.,sent,,2,2025-11-13T10:22:24.770240,2025-11-13T11:09:24.770247
+N000046,driver,d0134,push,Reminder,Your route has been assigned. Check app.,queued,,0,2025-11-13T09:46:24.770454,2025-11-13T11:09:24.770460
+N000047,driver,d0120,email,Route Assignment,Your route has been assigned. Check app.,queued,,2,2025-11-13T09:52:24.770728,2025-11-13T11:09:24.770736
+N000048,driver,d0151,push,Route Assignment,Your route has been assigned. Check app.,sent,,2,2025-11-13T10:38:24.771002,2025-11-13T11:09:24.771022
+N000049,driver,d0060,sms,Reminder,Your route has been assigned. Check app.,delivered,,2,2025-11-13T09:17:24.771289,2025-11-13T11:09:24.771296
+N000050,driver,d0009,push,Reminder,Your route has been assigned. Check app.,queued,,2,2025-11-13T09:18:24.771513,2025-11-13T11:09:24.771521
+N000051,driver,d0119,push,Route Assignment,Your route has been assigned. Check app.,queued,,2,2025-11-13T10:29:24.771742,2025-11-13T11:09:24.771751
+N000052,driver,d0109,email,Reminder,Your route has been assigned. Check app.,queued,,2,2025-11-13T09:34:24.772006,2025-11-13T11:09:24.772013
+N000053,driver,d0107,email,Reminder,Your route has been assigned. Check app.,queued,,2,2025-11-13T09:42:24.772291,2025-11-13T11:09:24.772299
+N000054,driver,d0173,sms,Route Assignment,Your route has been assigned. Check app.,delivered,,1,2025-11-13T10:33:24.772564,2025-11-13T11:09:24.772571
+N000055,driver,d0017,sms,Reminder,Your route has been assigned. Check app.,queued,,0,2025-11-13T11:04:24.772793,2025-11-13T11:09:24.772799
+N000056,driver,d0085,email,Reminder,Your route has been assigned. Check app.,sent,,2,2025-11-13T09:39:24.773068,2025-11-13T11:09:24.773076
+N000057,driver,d0052,sms,Route Assignment,Your route has been assigned. Check app.,delivered,,1,2025-11-13T10:36:24.773324,2025-11-13T11:09:24.773334
+N000058,driver,d0010,email,Reminder,Your route has been assigned. Check app.,delivered,,0,2025-11-13T09:27:24.773558,2025-11-13T11:09:24.773565
+N000059,driver,d0083,sms,Reminder,Your route has been assigned. Check app.,queued,,2,2025-11-13T10:57:24.773766,2025-11-13T11:09:24.773772
+N000060,driver,d0104,sms,Reminder,Your route has been assigned. Check app.,sent,,1,2025-11-13T10:37:24.774020,2025-11-13T11:09:24.774027
+N000061,driver,d0181,sms,Route Assignment,Your route has been assigned. Check app.,delivered,,1,2025-11-13T09:48:24.774286,2025-11-13T11:09:24.774293
+N000062,driver,d0048,push,Reminder,Your route has been assigned. Check app.,delivered,,1,2025-11-13T10:24:24.774529,2025-11-13T11:09:24.774536
+N000063,driver,d0002,email,Route Assignment,Your route has been assigned. Check app.,queued,,1,2025-11-13T09:49:24.774748,2025-11-13T11:09:24.774754
+N000064,driver,d0152,email,Route Assignment,Your route has been assigned. Check app.,sent,,2,2025-11-13T11:07:24.774984,2025-11-13T11:09:24.774991
+N000065,driver,d0138,email,Reminder,Your route has been assigned. Check app.,queued,,1,2025-11-13T11:06:24.775266,2025-11-13T11:09:24.775274
+N000066,driver,d0121,sms,Route Assignment,Your route has been assigned. Check app.,queued,,0,2025-11-13T09:45:24.775536,2025-11-13T11:09:24.775543
+N000067,driver,d0168,email,Route Assignment,Your route has been assigned. Check app.,queued,,2,2025-11-13T10:23:24.775758,2025-11-13T11:09:24.775764
+N000068,driver,d0144,push,Reminder,Your route has been assigned. Check app.,queued,,0,2025-11-13T09:44:24.775969,2025-11-13T11:09:24.775979
+N000069,driver,d0038,sms,Route Assignment,Your route has been assigned. Check app.,delivered,,2,2025-11-13T09:49:24.776233,2025-11-13T11:09:24.776243
+N000070,driver,d0071,sms,Route Assignment,Your route has been assigned. Check app.,sent,,1,2025-11-13T09:49:24.776509,2025-11-13T11:09:24.776516
+N000071,driver,d0046,sms,Route Assignment,Your route has been assigned. Check app.,delivered,,1,2025-11-13T11:08:24.776748,2025-11-13T11:09:24.776757
+N000072,driver,d0178,push,Reminder,Your route has been assigned. Check app.,queued,,2,2025-11-13T09:42:24.776979,2025-11-13T11:09:24.776985
+N000073,driver,d0088,push,Route Assignment,Your route has been assigned. Check app.,queued,,2,2025-11-13T10:41:24.777225,2025-11-13T11:09:24.777234
+N000074,driver,d0087,push,Route Assignment,Your route has been assigned. Check app.,sent,,2,2025-11-13T09:28:24.777485,2025-11-13T11:09:24.777492
+N000075,driver,d0157,sms,Reminder,Your route has been assigned. Check app.,delivered,,1,2025-11-13T09:46:24.777729,2025-11-13T11:09:24.777736
+N000076,driver,d0059,email,Route Assignment,Your route has been assigned. Check app.,delivered,,2,2025-11-13T09:24:24.777968,2025-11-13T11:09:24.777975
+N000077,driver,d0125,push,Route Assignment,Your route has been assigned. Check app.,delivered,,0,2025-11-13T10:40:24.778197,2025-11-13T11:09:24.778204
+N000078,driver,d0072,push,Route Assignment,Your route has been assigned. Check app.,queued,,2,2025-11-13T09:58:24.778478,2025-11-13T11:09:24.778486
+N000079,driver,d0178,push,Route Assignment,Your route has been assigned. Check app.,delivered,,2,2025-11-13T10:14:24.778719,2025-11-13T11:09:24.778729
+N000080,driver,d0189,sms,Reminder,Your route has been assigned. Check app.,sent,,0,2025-11-13T09:35:24.778999,2025-11-13T11:09:24.779019
+N131031,driver,d0129,push,Fuel Alert,Trip T000002 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.131031
+N135217,driver,d0120,push,Fuel Alert,Trip T000003 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.135217
+N138762,driver,d0061,push,Fuel Alert,Trip T000006 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.138762
+N140842,driver,d0141,push,Fuel Alert,Trip T000013 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.140842
+N143974,driver,d0156,push,Fuel Alert,Trip T000015 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.143974
+N146295,driver,d0144,push,Fuel Alert,Trip T000017 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.146295
+N148727,driver,d0136,push,Fuel Alert,Trip T000019 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.148727
+N151728,driver,d0136,push,Fuel Alert,Trip T000019 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.151728
+N154125,driver,d0124,push,Fuel Alert,Trip T000020 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.154125
+N158126,driver,d0021,push,Fuel Alert,Trip T000021 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.158126
+N166520,driver,d0032,push,Fuel Alert,Trip T000022 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.166520
+N175521,driver,d0010,push,Fuel Alert,Trip T000024 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.175521
+N180520,driver,d0177,push,Fuel Alert,Trip T000027 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.180520
+N184520,driver,d0177,push,Fuel Alert,Trip T000027 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.184520
+N187520,driver,d0178,push,Fuel Alert,Trip T000030 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.187520
+N191520,driver,d0034,push,Fuel Alert,Trip T000034 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.191520
+N197542,driver,d0117,push,Fuel Alert,Trip T000037 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.197542
+N202549,driver,d0083,push,Fuel Alert,Trip T000039 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.202549
+N205549,driver,d0104,push,Fuel Alert,Trip T000041 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.205549
+N209549,driver,d0002,push,Fuel Alert,Trip T000045 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.209549
+N213550,driver,d0037,push,Fuel Alert,Trip T000048 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.213550
+N217549,driver,d0019,push,Fuel Alert,Trip T000050 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.217549
+N222548,driver,d0109,push,Fuel Alert,Trip T000055 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.222548
+N226548,driver,d0056,push,Fuel Alert,Trip T000061 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.226548
+N229550,driver,d0030,push,Fuel Alert,Trip T000068 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.231549
+N235550,driver,d0030,push,Fuel Alert,Trip T000068 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.235550
+N238548,driver,d0118,push,Fuel Alert,Trip T000070 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.238548
+N243549,driver,d0167,push,Fuel Alert,Trip T000071 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.243549
+N249549,driver,d0107,push,Fuel Alert,Trip T000072 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.249549
+N252549,driver,d0112,push,Fuel Alert,Trip T000073 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.252549
+N256898,driver,d0041,push,Fuel Alert,Trip T000076 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.256898
+N260041,driver,d0127,push,Fuel Alert,Trip T000077 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.260041
+N263353,driver,d0010,push,Fuel Alert,Trip T000078 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.263353
+N265616,driver,d0081,push,Fuel Alert,Trip T000079 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.265616
+N268800,driver,d0016,push,Fuel Alert,Trip T000080 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.268800
+N270982,driver,d0064,push,Fuel Alert,Trip T000082 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.270982
+N273082,driver,d0079,push,Fuel Alert,Trip T000085 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.273082
+N277092,driver,d0141,push,Fuel Alert,Trip T000094 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.278091
+N282093,driver,d0037,push,Fuel Alert,Trip T000095 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.282093
+N285095,driver,d0148,push,Fuel Alert,Trip T000097 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.285095
+N289094,driver,d0157,push,Fuel Alert,Trip T000099 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.289094
+N292091,driver,d0012,push,Fuel Alert,Trip T000100 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.292091
+N295092,driver,d0101,push,Fuel Alert,Trip T000105 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.295092
+N297091,driver,d0040,push,Fuel Alert,Trip T000106 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.297091
+N300092,driver,d0012,push,Fuel Alert,Trip T000107 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.300092
+N302092,driver,d0012,push,Fuel Alert,Trip T000107 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.302092
+N305091,driver,d0163,push,Fuel Alert,Trip T000108 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.305091
+N307090,driver,d0163,push,Fuel Alert,Trip T000108 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.307090
+N309091,driver,d0182,push,Fuel Alert,Trip T000111 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.310091
+N312092,driver,d0182,push,Fuel Alert,Trip T000111 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.312092
+N314359,driver,d0058,push,Fuel Alert,Trip T000116 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.314359
+N316390,driver,d0117,push,Fuel Alert,Trip T000118 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.316390
+N319481,driver,d0089,push,Fuel Alert,Trip T000119 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.319481
+N321519,driver,d0120,push,Fuel Alert,Trip T000124 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.321519
+N324534,driver,d0115,push,Fuel Alert,Trip T000125 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.324534
+N326543,driver,d0130,push,Fuel Alert,Trip T000128 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.326543
+N329685,driver,d0141,push,Fuel Alert,Trip T000131 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.329685
+N332681,driver,d0089,push,Fuel Alert,Trip T000132 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.333682
+N335869,driver,d0015,push,Fuel Alert,Trip T000135 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.335869
+N339304,driver,d0169,push,Fuel Alert,Trip T000138 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.339304
+N341595,driver,d0009,push,Fuel Alert,Trip T000147 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.341595
+N342737,driver,d0181,push,Fuel Alert,Trip T000149 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.342737
+N343948,driver,d0036,push,Fuel Alert,Trip T000151 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.343948
+N345068,driver,d0119,push,Fuel Alert,Trip T000163 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.345068
+N346202,driver,d0036,push,Fuel Alert,Trip T000164 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.346202
+N347342,driver,d0111,push,Fuel Alert,Trip T000165 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.347342
+N348479,driver,d0199,push,Fuel Alert,Trip T000169 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.348479
+N349612,driver,d0092,push,Fuel Alert,Trip T000172 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.349612
+N350746,driver,d0084,push,Fuel Alert,Trip T000174 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.350746
+N351868,driver,d0136,push,Fuel Alert,Trip T000177 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.351868
+N351868,driver,d0133,push,Fuel Alert,Trip T000184 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.351868
+N353003,driver,d0173,push,Fuel Alert,Trip T000185 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.353003
+N354133,driver,d0111,push,Fuel Alert,Trip T000186 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.354133
+N354133,driver,d0156,push,Fuel Alert,Trip T000191 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.354133
+N355261,driver,d0191,push,Fuel Alert,Trip T000197 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.355261
+N355261,driver,d0169,push,Fuel Alert,Trip T000198 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.355261
+N356392,driver,d0150,push,Fuel Alert,Trip T000200 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.356392
+N357520,driver,d0150,push,Fuel Alert,Trip T000200 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.357520
+N357520,driver,d0193,push,Fuel Alert,Trip T000204 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.357520
+N358645,driver,d0047,push,Fuel Alert,Trip T000205 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.358645
+N359827,driver,d0170,push,Fuel Alert,Trip T000206 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.359827
+N359827,driver,d0002,push,Fuel Alert,Trip T000208 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.359827
+N360952,driver,d0197,push,Fuel Alert,Trip T000209 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.360952
+N360952,driver,d0164,push,Fuel Alert,Trip T000210 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.362083
+N363231,driver,d0140,push,Fuel Alert,Trip T000211 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.363231
+N364361,driver,d0030,push,Fuel Alert,Trip T000212 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.364361
+N365526,driver,d0185,push,Fuel Alert,Trip T000216 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.365526
+N366653,driver,d0006,push,Fuel Alert,Trip T000217 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.366653
+N366653,driver,d0185,push,Fuel Alert,Trip T000218 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.366653
+N367807,driver,d0185,push,Fuel Alert,Trip T000218 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.367807
+N368954,driver,d0185,push,Fuel Alert,Trip T000218 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.368954
+N368954,driver,d0092,push,Fuel Alert,Trip T000219 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.368954
+N370074,driver,d0145,push,Fuel Alert,Trip T000220 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.370074
+N371202,driver,d0116,push,Fuel Alert,Trip T000223 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.371202
+N371202,driver,d0164,push,Fuel Alert,Trip T000224 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.371202
+N372334,driver,d0035,push,Fuel Alert,Trip T000232 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.372334
+N373457,driver,d0087,push,Fuel Alert,Trip T000235 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.373457
+N373457,driver,d0161,push,Fuel Alert,Trip T000236 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.373457
+N374579,driver,d0059,push,Fuel Alert,Trip T000237 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.374579
+N375931,driver,d0138,push,Fuel Alert,Trip T000238 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.375931
+N375931,driver,d0177,push,Fuel Alert,Trip T000243 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.375931
+N377068,driver,d0007,push,Fuel Alert,Trip T000244 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.377068
+N378196,driver,d0027,push,Fuel Alert,Trip T000246 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.378196
+N379328,driver,d0199,push,Fuel Alert,Trip T000249 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.379328
+N380467,driver,d0043,push,Fuel Alert,Trip T000251 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.380467
+N381599,driver,d0030,push,Fuel Alert,Trip T000257 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.381599
+N382733,driver,d0173,push,Fuel Alert,Trip T000260 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.382733
+N383883,driver,d0195,push,Fuel Alert,Trip T000261 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.383883
+N383883,driver,d0081,push,Fuel Alert,Trip T000263 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.383883
+N385010,driver,d0105,push,Fuel Alert,Trip T000265 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.385010
+N386129,driver,d0165,push,Fuel Alert,Trip T000266 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.386129
+N386129,driver,d0139,push,Fuel Alert,Trip T000268 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.386129
+N387247,driver,d0139,push,Fuel Alert,Trip T000268 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.387247
+N388374,driver,d0075,push,Fuel Alert,Trip T000270 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.388374
+N388374,driver,d0075,push,Fuel Alert,Trip T000270 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.388374
+N389494,driver,d0120,push,Fuel Alert,Trip T000272 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.389494
+N390630,driver,d0081,push,Fuel Alert,Trip T000273 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.390630
+N390630,driver,d0156,push,Fuel Alert,Trip T000274 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.390630
+N391984,driver,d0124,push,Fuel Alert,Trip T000275 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.391984
+N393110,driver,d0080,push,Fuel Alert,Trip T000276 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.393110
+N393110,driver,d0159,push,Fuel Alert,Trip T000279 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.393110
+N394236,driver,d0080,push,Fuel Alert,Trip T000280 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.394236
+N395357,driver,d0058,push,Fuel Alert,Trip T000281 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.395357
+N396509,driver,d0102,push,Fuel Alert,Trip T000286 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.396509
+N397686,driver,d0012,push,Fuel Alert,Trip T000288 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.397686
+N398825,driver,d0114,push,Fuel Alert,Trip T000289 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.398825
+N399951,driver,d0065,push,Fuel Alert,Trip T000296 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.399951
+N401073,driver,d0133,push,Fuel Alert,Trip T000301 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.401073
+N401073,driver,d0126,push,Fuel Alert,Trip T000307 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.401073
+N402195,driver,d0119,push,Fuel Alert,Trip T000312 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.402195
+N403315,driver,d0148,push,Fuel Alert,Trip T000321 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.403315
+N405587,driver,d0148,push,Fuel Alert,Trip T000321 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.405587
+N407902,driver,d0092,push,Fuel Alert,Trip T000324 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.407902
+N409059,driver,d0052,push,Fuel Alert,Trip T000328 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.409059
+N411337,driver,d0006,push,Fuel Alert,Trip T000329 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.411337
+N413423,driver,d0155,push,Fuel Alert,Trip T000331 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.414593
+N414593,driver,d0056,push,Fuel Alert,Trip T000332 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.414593
+N415727,driver,d0026,push,Fuel Alert,Trip T000340 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.415727
+N416869,driver,d0039,push,Fuel Alert,Trip T000343 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.416869
+N417993,driver,d0006,push,Fuel Alert,Trip T000346 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.417993
+N417993,driver,d0090,push,Fuel Alert,Trip T000350 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.417993
+N419115,driver,d0077,push,Fuel Alert,Trip T000351 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.419115
+N420247,driver,d0041,push,Fuel Alert,Trip T000355 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.420247
+N420247,driver,d0084,push,Fuel Alert,Trip T000362 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.420247
+N421374,driver,d0036,push,Fuel Alert,Trip T000365 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.421374
+N421374,driver,d0036,push,Fuel Alert,Trip T000365 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.422506
+N422506,driver,d0036,push,Fuel Alert,Trip T000365 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.422506
+N423650,driver,d0184,push,Fuel Alert,Trip T000366 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.423650
+N424772,driver,d0182,push,Fuel Alert,Trip T000367 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.424772
+N424772,driver,d0046,push,Fuel Alert,Trip T000369 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.424772
+N425924,driver,d0148,push,Fuel Alert,Trip T000371 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.425924
+N427053,driver,d0029,push,Fuel Alert,Trip T000372 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.427053
+N427053,driver,d0133,push,Fuel Alert,Trip T000373 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.428208
+N428208,driver,d0092,push,Fuel Alert,Trip T000376 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.428208
+N430451,driver,d0166,push,Fuel Alert,Trip T000381 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.430451
+N431603,driver,d0191,push,Fuel Alert,Trip T000383 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.431603
+N432730,driver,d0080,push,Fuel Alert,Trip T000389 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.432730
+N432730,driver,d0163,push,Fuel Alert,Trip T000391 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.432730
+N433855,driver,d0110,push,Fuel Alert,Trip T000396 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.433855
+N434988,driver,d0110,push,Fuel Alert,Trip T000396 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.434988
+N434988,driver,d0026,push,Fuel Alert,Trip T000397 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.434988
+N436124,driver,d0045,push,Fuel Alert,Trip T000400 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:56:45.436124
+N591988,driver,d0129,push,Fuel Alert,Trip T000002 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.591988
+N595139,driver,d0120,push,Fuel Alert,Trip T000003 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.596459
+N599478,driver,d0088,push,Fuel Alert,Trip T000005 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.599478
+N601489,driver,d0061,push,Fuel Alert,Trip T000006 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.601489
+N604852,driver,d0141,push,Fuel Alert,Trip T000013 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.604852
+N609602,driver,d0156,push,Fuel Alert,Trip T000015 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.609602
+N617707,driver,d0144,push,Fuel Alert,Trip T000017 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.617707
+N620744,driver,d0136,push,Fuel Alert,Trip T000019 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.620744
+N625200,driver,d0136,push,Fuel Alert,Trip T000019 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.625200
+N629457,driver,d0124,push,Fuel Alert,Trip T000020 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.630469
+N633995,driver,d0021,push,Fuel Alert,Trip T000021 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.633995
+N638497,driver,d0032,push,Fuel Alert,Trip T000022 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.638497
+N641771,driver,d0010,push,Fuel Alert,Trip T000024 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.641771
+N646312,driver,d0020,push,Fuel Alert,Trip T000026 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.646312
+N653874,driver,d0177,push,Fuel Alert,Trip T000027 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.653874
+N659017,driver,d0177,push,Fuel Alert,Trip T000027 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.659017
+N667237,driver,d0178,push,Fuel Alert,Trip T000030 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.667237
+N673235,driver,d0034,push,Fuel Alert,Trip T000034 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.673235
+N677696,driver,d0117,push,Fuel Alert,Trip T000037 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.677696
+N692917,driver,d0083,push,Fuel Alert,Trip T000039 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.693918
+N697918,driver,d0104,push,Fuel Alert,Trip T000041 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.697918
+N702916,driver,d0129,push,Fuel Alert,Trip T000043 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.702916
+N708281,driver,d0002,push,Fuel Alert,Trip T000045 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.708281
+N713055,driver,d0019,push,Fuel Alert,Trip T000050 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.713055
+N717323,driver,d0033,push,Fuel Alert,Trip T000051 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.717323
+N723395,driver,d0109,push,Fuel Alert,Trip T000055 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.724396
+N727630,driver,d0056,push,Fuel Alert,Trip T000061 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.727630
+N732074,driver,d0030,push,Fuel Alert,Trip T000068 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.732074
+N735249,driver,d0030,push,Fuel Alert,Trip T000068 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.735249
+N737607,driver,d0118,push,Fuel Alert,Trip T000070 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.737607
+N742166,driver,d0167,push,Fuel Alert,Trip T000071 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.742166
+N744382,driver,d0107,push,Fuel Alert,Trip T000072 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.745556
+N748932,driver,d0112,push,Fuel Alert,Trip T000073 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.748932
+N752297,driver,d0041,push,Fuel Alert,Trip T000076 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.752297
+N754561,driver,d0127,push,Fuel Alert,Trip T000077 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.755686
+N757929,driver,d0010,push,Fuel Alert,Trip T000078 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.757929
+N760307,driver,d0081,push,Fuel Alert,Trip T000079 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.760307
+N763435,driver,d0016,push,Fuel Alert,Trip T000080 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.763435
+N765621,driver,d0064,push,Fuel Alert,Trip T000082 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.765621
+N768947,driver,d0079,push,Fuel Alert,Trip T000085 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.768947
+N771128,driver,d0037,push,Fuel Alert,Trip T000095 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.771128
+N773321,driver,d0052,push,Fuel Alert,Trip T000096 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.774511
+N776711,driver,d0148,push,Fuel Alert,Trip T000097 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.776711
+N778991,driver,d0157,push,Fuel Alert,Trip T000099 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.778991
+N781169,driver,d0012,push,Fuel Alert,Trip T000100 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.781169
+N784451,driver,d0018,push,Fuel Alert,Trip T000104 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.784451
+N786634,driver,d0101,push,Fuel Alert,Trip T000105 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.786634
+N788819,driver,d0040,push,Fuel Alert,Trip T000106 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.788819
+N791144,driver,d0012,push,Fuel Alert,Trip T000107 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.791144
+N793327,driver,d0012,push,Fuel Alert,Trip T000107 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.793327
+N795645,driver,d0163,push,Fuel Alert,Trip T000108 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.796718
+N799938,driver,d0163,push,Fuel Alert,Trip T000108 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.799938
+N803383,driver,d0182,push,Fuel Alert,Trip T000111 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.803383
+N806088,driver,d0182,push,Fuel Alert,Trip T000111 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.806088
+N809337,driver,d0117,push,Fuel Alert,Trip T000112 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.809337
+N815160,driver,d0058,push,Fuel Alert,Trip T000116 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.815160
+N818312,driver,d0117,push,Fuel Alert,Trip T000118 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.818312
+N822105,driver,d0120,push,Fuel Alert,Trip T000124 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.822105
+N825110,driver,d0115,push,Fuel Alert,Trip T000125 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.825110
+N828348,driver,d0046,push,Fuel Alert,Trip T000126 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.828348
+N830466,driver,d0144,push,Fuel Alert,Trip T000127 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.830466
+N833600,driver,d0130,push,Fuel Alert,Trip T000128 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.833600
+N836889,driver,d0141,push,Fuel Alert,Trip T000131 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.836889
+N838888,driver,d0089,push,Fuel Alert,Trip T000132 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.838888
+N841888,driver,d0029,push,Fuel Alert,Trip T000134 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.841888
+N845390,driver,d0015,push,Fuel Alert,Trip T000135 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.845390
+N848725,driver,d0169,push,Fuel Alert,Trip T000138 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.848725
+N852074,driver,d0118,push,Fuel Alert,Trip T000142 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.852074
+N855985,driver,d0038,push,Fuel Alert,Trip T000143 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.855985
+N859145,driver,d0009,push,Fuel Alert,Trip T000147 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.859145
+N861322,driver,d0036,push,Fuel Alert,Trip T000151 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.862390
+N864702,driver,d0064,push,Fuel Alert,Trip T000153 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.864702
+N867860,driver,d0115,push,Fuel Alert,Trip T000158 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.867860
+N870371,driver,d0115,push,Fuel Alert,Trip T000158 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.870371
+N873741,driver,d0050,push,Fuel Alert,Trip T000161 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.873741
+N876001,driver,d0119,push,Fuel Alert,Trip T000163 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.876001
+N879447,driver,d0036,push,Fuel Alert,Trip T000164 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.879447
+N882578,driver,d0111,push,Fuel Alert,Trip T000165 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.882578
+N885955,driver,d0199,push,Fuel Alert,Trip T000169 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.885955
+N888075,driver,d0025,push,Fuel Alert,Trip T000170 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.888075
+N891220,driver,d0092,push,Fuel Alert,Trip T000172 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.891220
+N893312,driver,d0011,push,Fuel Alert,Trip T000173 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.893312
+N896587,driver,d0084,push,Fuel Alert,Trip T000174 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.896587
+N899586,driver,d0136,push,Fuel Alert,Trip T000177 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.899586
+N902586,driver,d0108,push,Fuel Alert,Trip T000182 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.902586
+N905586,driver,d0133,push,Fuel Alert,Trip T000184 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.905586
+N908061,driver,d0173,push,Fuel Alert,Trip T000185 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.908061
+N911118,driver,d0111,push,Fuel Alert,Trip T000186 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.911118
+N915438,driver,d0156,push,Fuel Alert,Trip T000191 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.915438
+N917438,driver,d0191,push,Fuel Alert,Trip T000197 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.917438
+N919661,driver,d0169,push,Fuel Alert,Trip T000198 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.919661
+N922815,driver,d0150,push,Fuel Alert,Trip T000200 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.922815
+N925936,driver,d0150,push,Fuel Alert,Trip T000200 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.925936
+N929192,driver,d0193,push,Fuel Alert,Trip T000204 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.929192
+N931196,driver,d0047,push,Fuel Alert,Trip T000205 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.931196
+N934597,driver,d0170,push,Fuel Alert,Trip T000206 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.934597
+N937729,driver,d0002,push,Fuel Alert,Trip T000208 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.937729
+N940865,driver,d0197,push,Fuel Alert,Trip T000209 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.940865
+N942962,driver,d0140,push,Fuel Alert,Trip T000211 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.942962
+N947364,driver,d0030,push,Fuel Alert,Trip T000212 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.947364
+N948875,driver,d0185,push,Fuel Alert,Trip T000216 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.948875
+N951875,driver,d0006,push,Fuel Alert,Trip T000217 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.951875
+N954875,driver,d0185,push,Fuel Alert,Trip T000218 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.954875
+N957874,driver,d0185,push,Fuel Alert,Trip T000218 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.957874
+N959874,driver,d0185,push,Fuel Alert,Trip T000218 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.959874
+N963504,driver,d0145,push,Fuel Alert,Trip T000220 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.963504
+N967155,driver,d0116,push,Fuel Alert,Trip T000223 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.967155
+N970519,driver,d0164,push,Fuel Alert,Trip T000224 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.970519
+N972767,driver,d0035,push,Fuel Alert,Trip T000232 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.972767
+N975024,driver,d0161,push,Fuel Alert,Trip T000236 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.975024
+N977384,driver,d0059,push,Fuel Alert,Trip T000237 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.977384
+N980825,driver,d0138,push,Fuel Alert,Trip T000238 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.980825
+N983824,driver,d0187,push,Fuel Alert,Trip T000242 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.983824
+N985825,driver,d0187,push,Fuel Alert,Trip T000242 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.986825
+N988825,driver,d0177,push,Fuel Alert,Trip T000243 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.988825
+N991824,driver,d0007,push,Fuel Alert,Trip T000244 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.991824
+N994036,driver,d0027,push,Fuel Alert,Trip T000246 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.995044
+N997419,driver,d0199,push,Fuel Alert,Trip T000249 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:23.997419
+N000555,driver,d0043,push,Fuel Alert,Trip T000251 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.000555
+N002517,driver,d0030,push,Fuel Alert,Trip T000257 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.003632
+N005730,driver,d0047,push,Fuel Alert,Trip T000259 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.005730
+N009133,driver,d0173,push,Fuel Alert,Trip T000260 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.009133
+N012302,driver,d0195,push,Fuel Alert,Trip T000261 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.012302
+N015513,driver,d0081,push,Fuel Alert,Trip T000263 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.015513
+N017530,driver,d0105,push,Fuel Alert,Trip T000265 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.017530
+N020551,driver,d0165,push,Fuel Alert,Trip T000266 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.020551
+N023575,driver,d0001,push,Fuel Alert,Trip T000267 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.023575
+N025082,driver,d0001,push,Fuel Alert,Trip T000267 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.025082
+N028474,driver,d0139,push,Fuel Alert,Trip T000268 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.028474
+N030852,driver,d0139,push,Fuel Alert,Trip T000268 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.030852
+N034858,driver,d0075,push,Fuel Alert,Trip T000270 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.034858
+N037858,driver,d0075,push,Fuel Alert,Trip T000270 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.038858
+N042115,driver,d0120,push,Fuel Alert,Trip T000272 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.042115
+N045299,driver,d0081,push,Fuel Alert,Trip T000273 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.045299
+N048635,driver,d0156,push,Fuel Alert,Trip T000274 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.048635
+N053069,driver,d0124,push,Fuel Alert,Trip T000275 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.053069
+N055644,driver,d0080,push,Fuel Alert,Trip T000276 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.056693
+N058794,driver,d0074,push,Fuel Alert,Trip T000278 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.058794
+N062074,driver,d0159,push,Fuel Alert,Trip T000279 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.062074
+N065225,driver,d0080,push,Fuel Alert,Trip T000280 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.065225
+N068355,driver,d0058,push,Fuel Alert,Trip T000281 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.068355
+N072878,driver,d0082,push,Fuel Alert,Trip T000283 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.072878
+N075988,driver,d0082,push,Fuel Alert,Trip T000283 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.075988
+N078475,driver,d0102,push,Fuel Alert,Trip T000286 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.078475
+N081007,driver,d0114,push,Fuel Alert,Trip T000289 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.081007
+N083176,driver,d0065,push,Fuel Alert,Trip T000296 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.084176
+N086579,driver,d0009,push,Fuel Alert,Trip T000299 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.086579
+N089731,driver,d0133,push,Fuel Alert,Trip T000301 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.089731
+N091886,driver,d0006,push,Fuel Alert,Trip T000304 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.091886
+N094385,driver,d0126,push,Fuel Alert,Trip T000307 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.095853
+N097364,driver,d0119,push,Fuel Alert,Trip T000312 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.097364
+N100363,driver,d0156,push,Fuel Alert,Trip T000316 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.100363
+N102843,driver,d0179,push,Fuel Alert,Trip T000317 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.103921
+N106032,driver,d0027,push,Fuel Alert,Trip T000320 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.106032
+N109164,driver,d0148,push,Fuel Alert,Trip T000321 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.109164
+N111226,driver,d0148,push,Fuel Alert,Trip T000321 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.111226
+N114504,driver,d0067,push,Fuel Alert,Trip T000322 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.114504
+N116761,driver,d0092,push,Fuel Alert,Trip T000324 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.116761
+N119865,driver,d0103,push,Fuel Alert,Trip T000326 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.119865
+N121865,driver,d0153,push,Fuel Alert,Trip T000327 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.121865
+N124864,driver,d0052,push,Fuel Alert,Trip T000328 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.124864
+N127865,driver,d0006,push,Fuel Alert,Trip T000329 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.129071
+N131363,driver,d0155,push,Fuel Alert,Trip T000331 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.131363
+N134415,driver,d0056,push,Fuel Alert,Trip T000332 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.134415
+N137549,driver,d0133,push,Fuel Alert,Trip T000334 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.137549
+N139642,driver,d0167,push,Fuel Alert,Trip T000338 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.139642
+N142784,driver,d0060,push,Fuel Alert,Trip T000339 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.142784
+N145844,driver,d0026,push,Fuel Alert,Trip T000340 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.145844
+N150218,driver,d0039,push,Fuel Alert,Trip T000343 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.150218
+N153535,driver,d0006,push,Fuel Alert,Trip T000346 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.153535
+N156809,driver,d0090,push,Fuel Alert,Trip T000350 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.157887
+N161032,driver,d0077,push,Fuel Alert,Trip T000351 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.161032
+N164331,driver,d0041,push,Fuel Alert,Trip T000355 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.164331
+N167473,driver,d0004,push,Fuel Alert,Trip T000357 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.167473
+N169555,driver,d0021,push,Fuel Alert,Trip T000359 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.169555
+N172693,driver,d0084,push,Fuel Alert,Trip T000362 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.172693
+N174784,driver,d0036,push,Fuel Alert,Trip T000365 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.175829
+N177892,driver,d0036,push,Fuel Alert,Trip T000365 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.177892
+N181357,driver,d0036,push,Fuel Alert,Trip T000365 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.181357
+N184735,driver,d0184,push,Fuel Alert,Trip T000366 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.184735
+N186985,driver,d0182,push,Fuel Alert,Trip T000367 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.186985
+N190384,driver,d0046,push,Fuel Alert,Trip T000369 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.190384
+N192632,driver,d0148,push,Fuel Alert,Trip T000371 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.192632
+N196539,driver,d0029,push,Fuel Alert,Trip T000372 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.197592
+N199679,driver,d0133,push,Fuel Alert,Trip T000373 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.199679
+N202818,driver,d0186,push,Fuel Alert,Trip T000378 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.202818
+N205950,driver,d0166,push,Fuel Alert,Trip T000381 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.205950
+N208041,driver,d0191,push,Fuel Alert,Trip T000383 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.208041
+N210130,driver,d0088,push,Fuel Alert,Trip T000386 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.210130
+N213540,driver,d0080,push,Fuel Alert,Trip T000389 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.213540
+N216540,driver,d0163,push,Fuel Alert,Trip T000391 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.216540
+N218866,driver,d0110,push,Fuel Alert,Trip T000396 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.219867
+N222866,driver,d0110,push,Fuel Alert,Trip T000396 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.222866
+N224867,driver,d0026,push,Fuel Alert,Trip T000397 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.225867
+N227866,driver,d0045,push,Fuel Alert,Trip T000400 has higher than expected fuel consumption.,queued,,0,,2025-11-14 02:58:24.227866

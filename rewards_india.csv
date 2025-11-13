@@ -1,0 +1,4 @@
+reward_id,name,description,metric,threshold,active,created_at
+RW001,Eco Leader,Top 10% drivers by CO2 saved,co2_saved,0.0,True,2025-11-13T11:09:24.741959
+RW002,Smooth Driver,High eco score >80,eco_score,80.0,True,2025-11-13T11:09:24.741966
+RW003,Low Idle,Idle time <8% for week,idle_time_pct,8.0,True,2025-11-13T11:09:24.741968
